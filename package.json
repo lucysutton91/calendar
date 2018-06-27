@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "calendar",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "simple react calendar",
   "engines": {
     "node": ">= 7.0.0"
   },
@@ -32,7 +32,7 @@
       "git add"
     ]
   },
-  "author": "Fullstack Academy of Code",
+  "author": "Lucy Sutton, boiler plate by Fullstack Academy of Code",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.15.3",
